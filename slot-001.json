@@ -1,1 +1,10 @@
-{"title":"Starry Gallery - Connection Test","author":"Museum development","description":"This original test card verifies external image loading. No purchased assets are published."}
+{
+  "active": true,
+  "title": "Starry Gallery - Connection Test",
+  "author": "Museum development",
+  "description": "This original test card verifies external image loading. No purchased assets are published.",
+  "body": "",
+  "kind": "image",
+  "asset": "slot-001.png",
+  "thumbnail": ""
+}

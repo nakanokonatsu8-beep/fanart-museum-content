@@ -1,1 +1,582 @@
-{"version":2,"images":[{"active":true,"title":"Starry Gallery - Connection Test","author":"Museum development","description":"This original test card verifies external image loading. No purchased assets are published.","rev":"initial-image:1"}],"videos":[],"novels":[]}
+{
+  "version": 2,
+  "updatedAt": "2026-10-30T14:48:01.757Z",
+  "images": [
+    {
+      "active": true,
+      "title": "Starry Gallery - Connection Test",
+      "author": "Museum development",
+      "description": "This original test card verifies external image loading. No purchased assets are published.",
+      "rev": "initial-image:"
+    },
+    {
+      "active": true,
+      "title": "テスト",
+      "author": "テストですよ",
+      "description": "テストですね",
+      "rev": "0752fb96-0fdf-4b2c-b644-6856cce8e06f:2026-10-30T14:47:58.349Z"
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    }
+  ],
+  "videos": [
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    }
+  ],
+  "novels": [
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    },
+    {
+      "active": false
+    }
+  ]
+}

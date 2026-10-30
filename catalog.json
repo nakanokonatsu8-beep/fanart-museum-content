@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-30T14:48:01.757Z",
+  "works": [
+    {
+      "id": "initial-image",
+      "kind": "image",
+      "asset": "slot-001.png",
+      "title": "Starry Gallery - Connection Test",
+      "author": "Museum development",
+      "description": "This original test card verifies external image loading. No purchased assets are published."
+    },
+    {
+      "id": "0752fb96-0fdf-4b2c-b644-6856cce8e06f",
+      "kind": "image",
+      "title": "テスト",
+      "author": "テストですよ",
+      "description": "テストですね",
+      "permissionConfirmedAt": "2026-10-30T14:47:58.349Z",
+      "updatedAt": "2026-10-30T14:47:58.349Z",
+      "asset": "media/0752fb96-0fdf-4b2c-b644-6856cce8e06f.png"
+    }
+  ]
+}
