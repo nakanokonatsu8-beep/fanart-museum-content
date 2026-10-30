@@ -1,20 +1,17 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-30T14:53:21.826Z",
+  "updatedAt": "2026-10-30T15:09:43.218Z",
   "images": [
-    {
-      "active": true,
-      "title": "Starry Gallery - Connection Test",
-      "author": "Museum development",
-      "description": "This original test card verifies external image loading. No purchased assets are published.",
-      "rev": "initial-image:"
-    },
     {
       "active": true,
       "title": "テスト",
       "author": "テストですよ",
       "description": "テストですね",
+      "vertical": false,
       "rev": "0752fb96-0fdf-4b2c-b644-6856cce8e06f:2026-10-30T14:47:58.349Z"
+    },
+    {
+      "active": false
     },
     {
       "active": false
@@ -497,6 +494,7 @@
       "title": "テスト",
       "author": "テストですよ",
       "description": "テストですね",
+      "vertical": false,
       "rev": "b428b8e6-6fde-4012-acd0-258da59b7c9e:2026-10-30T14:50:47.390Z"
     },
     {
@@ -551,6 +549,7 @@
       "title": "テストですよ",
       "author": "テストですね",
       "description": "テストですか？",
+      "vertical": false,
       "rev": "4b24030d-1837-48d4-9b62-bfbdced4603b:2026-10-30T14:53:20.850Z"
     },
     {

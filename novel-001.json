@@ -4,6 +4,7 @@
   "author": "テストですね",
   "description": "テストですか？",
   "body": "ああ、その通り、テストです。",
+  "vertical": false,
   "kind": "novel",
   "thumbnail": ""
 }

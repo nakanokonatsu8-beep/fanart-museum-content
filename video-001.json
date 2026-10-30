@@ -4,6 +4,7 @@
   "author": "テストですよ",
   "description": "テストですね",
   "body": "",
+  "vertical": false,
   "kind": "video",
   "asset": "media/b428b8e6-6fde-4012-acd0-258da59b7c9e.mp4",
   "thumbnail": "media/b428b8e6-6fde-4012-acd0-258da59b7c9e-cover.png"
