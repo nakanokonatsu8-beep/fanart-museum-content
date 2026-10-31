@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-30T15:09:43.218Z",
+  "updatedAt": "2026-10-31T00:17:03.939Z",
   "images": [
     {
       "active": true,
@@ -584,6 +584,17 @@
     },
     {
       "active": false
+    }
+  ],
+  "letters": [
+    {
+      "active": true,
+      "title": "未完成",
+      "author": "ほしもり",
+      "description": "",
+      "vertical": false,
+      "rev": "51054c90-0ea4-4722-817e-150e804caecb:2026-10-31T00:17:02.802Z",
+      "body": "やぁ"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T15:09:43.217Z",
+  "updatedAt": "2026-10-31T00:17:03.936Z",
   "works": [
     {
       "id": "0752fb96-0fdf-4b2c-b644-6856cce8e06f",
@@ -32,6 +32,17 @@
       "permissionConfirmedAt": "2026-10-30T14:53:20.850Z",
       "updatedAt": "2026-10-30T14:53:20.850Z",
       "body": "ああ、その通り、テストです。"
+    },
+    {
+      "id": "51054c90-0ea4-4722-817e-150e804caecb",
+      "kind": "letter",
+      "title": "未完成",
+      "author": "ほしもり",
+      "description": "",
+      "permissionConfirmedAt": "2026-10-31T00:17:02.794Z",
+      "updatedAt": "2026-10-31T00:17:02.802Z",
+      "body": "やぁ",
+      "vertical": false
     }
   ]
 }
