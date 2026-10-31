@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T10:35:02.336Z",
+  "updatedAt": "2026-10-31T11:37:14.381Z",
   "images": [
     {
       "active": true,
@@ -11,7 +11,16 @@
       "rev": "c8d157cb-25ef-4b34-91ef-8e910c1be3bf:2026-10-31T10:35:01.213Z"
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "먀",
+      "description": "",
+      "vertical": false,
+      "rev": "d5475aed-e2f8-410b-87a5-a964add40d29:2026-10-31T11:37:10.959Z",
+      "frames": 16,
+      "cols": 4,
+      "rows": 4,
+      "fps": 12
     },
     {
       "active": false

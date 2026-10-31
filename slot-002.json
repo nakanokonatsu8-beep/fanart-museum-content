@@ -1,3 +1,11 @@
 {
-  "active": false
+  "active": true,
+  "title": "",
+  "author": "먀",
+  "description": "",
+  "body": "",
+  "vertical": false,
+  "kind": "image",
+  "asset": "media/d5475aed-e2f8-410b-87a5-a964add40d29.png",
+  "thumbnail": ""
 }
