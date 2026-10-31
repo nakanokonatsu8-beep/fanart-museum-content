@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T08:43:50.798Z",
+  "updatedAt": "2026-10-31T10:34:17.912Z",
   "images": [
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "YUKI❄",
+      "description": "",
+      "vertical": false,
+      "rev": "c8d157cb-25ef-4b34-91ef-8e910c1be3bf:2026-10-31T10:34:14.673Z"
     },
     {
       "active": false

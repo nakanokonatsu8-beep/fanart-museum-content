@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:43:50.798Z",
+  "updatedAt": "2026-10-31T10:34:17.908Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -12,6 +12,16 @@
       "updatedAt": "2026-10-31T08:43:49.589Z",
       "body": "まだここには何もありませんね。",
       "vertical": false
+    },
+    {
+      "id": "c8d157cb-25ef-4b34-91ef-8e910c1be3bf",
+      "kind": "image",
+      "title": "",
+      "author": "YUKI❄",
+      "description": "",
+      "permissionConfirmedAt": "2026-10-31T10:34:14.673Z",
+      "updatedAt": "2026-10-31T10:34:14.673Z",
+      "asset": "media/c8d157cb-25ef-4b34-91ef-8e910c1be3bf.png"
     }
   ]
 }
