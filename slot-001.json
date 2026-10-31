@@ -1,11 +1,3 @@
 {
-  "active": true,
-  "title": "テスト",
-  "author": "テストですよ",
-  "description": "テストですね",
-  "body": "",
-  "vertical": false,
-  "kind": "image",
-  "asset": "media/0752fb96-0fdf-4b2c-b644-6856cce8e06f.png",
-  "thumbnail": ""
+  "active": false
 }

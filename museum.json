@@ -1,14 +1,9 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T08:40:36.554Z",
+  "updatedAt": "2026-10-31T08:41:31.228Z",
   "images": [
     {
-      "active": true,
-      "title": "テスト",
-      "author": "テストですよ",
-      "description": "テストですね",
-      "vertical": false,
-      "rev": "0752fb96-0fdf-4b2c-b644-6856cce8e06f:2026-10-30T14:47:58.349Z"
+      "active": false
     },
     {
       "active": false

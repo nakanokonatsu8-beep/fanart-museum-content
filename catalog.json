@@ -1,17 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:40:36.554Z",
+  "updatedAt": "2026-10-31T08:41:31.228Z",
   "works": [
-    {
-      "id": "0752fb96-0fdf-4b2c-b644-6856cce8e06f",
-      "kind": "image",
-      "title": "テスト",
-      "author": "テストですよ",
-      "description": "テストですね",
-      "permissionConfirmedAt": "2026-10-30T14:47:58.349Z",
-      "updatedAt": "2026-10-30T14:47:58.349Z",
-      "asset": "media/0752fb96-0fdf-4b2c-b644-6856cce8e06f.png"
-    },
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
       "kind": "letter",
