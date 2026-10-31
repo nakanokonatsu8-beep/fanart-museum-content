@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:39:16.086Z",
+  "updatedAt": "2026-10-31T08:40:36.554Z",
   "works": [
     {
       "id": "0752fb96-0fdf-4b2c-b644-6856cce8e06f",
@@ -11,16 +11,6 @@
       "permissionConfirmedAt": "2026-10-30T14:47:58.349Z",
       "updatedAt": "2026-10-30T14:47:58.349Z",
       "asset": "media/0752fb96-0fdf-4b2c-b644-6856cce8e06f.png"
-    },
-    {
-      "id": "4b24030d-1837-48d4-9b62-bfbdced4603b",
-      "kind": "novel",
-      "title": "テストですよ",
-      "author": "テストですね",
-      "description": "テストですか？",
-      "permissionConfirmedAt": "2026-10-30T14:53:20.850Z",
-      "updatedAt": "2026-10-30T14:53:20.850Z",
-      "body": "ああ、その通り、テストです。"
     },
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T08:39:16.094Z",
+  "updatedAt": "2026-10-31T08:40:36.554Z",
   "images": [
     {
       "active": true,
@@ -540,12 +540,7 @@
   ],
   "novels": [
     {
-      "active": true,
-      "title": "テストですよ",
-      "author": "テストですね",
-      "description": "テストですか？",
-      "vertical": false,
-      "rev": "4b24030d-1837-48d4-9b62-bfbdced4603b:2026-10-30T14:53:20.850Z"
+      "active": false
     },
     {
       "active": false
