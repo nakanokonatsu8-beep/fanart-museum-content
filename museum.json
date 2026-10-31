@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T08:41:31.228Z",
+  "updatedAt": "2026-10-31T08:43:50.798Z",
   "images": [
     {
       "active": false
@@ -574,12 +574,12 @@
   "letters": [
     {
       "active": true,
-      "title": "未完成",
+      "title": "",
       "author": "ほしもり",
       "description": "",
       "vertical": false,
-      "rev": "51054c90-0ea4-4722-817e-150e804caecb:2026-10-31T00:17:02.802Z",
-      "body": "やぁ"
+      "rev": "51054c90-0ea4-4722-817e-150e804caecb:2026-10-31T08:43:49.589Z",
+      "body": "まだここには何もありませんね。"
     }
   ]
 }

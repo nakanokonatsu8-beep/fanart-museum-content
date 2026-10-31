@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:41:31.228Z",
+  "updatedAt": "2026-10-31T08:43:50.798Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
       "kind": "letter",
-      "title": "未完成",
+      "title": "",
       "author": "ほしもり",
       "description": "",
-      "permissionConfirmedAt": "2026-10-31T00:17:02.794Z",
-      "updatedAt": "2026-10-31T00:17:02.802Z",
-      "body": "やぁ",
+      "permissionConfirmedAt": "2026-10-31T08:43:49.589Z",
+      "updatedAt": "2026-10-31T08:43:49.589Z",
+      "body": "まだここには何もありませんね。",
       "vertical": false
     }
   ]
