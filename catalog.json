@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T11:37:14.381Z",
+  "updatedAt": "2026-10-31T11:37:28.758Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -34,6 +34,20 @@
       "asset": "media/d5475aed-e2f8-410b-87a5-a964add40d29.png",
       "frames": 16,
       "cols": 4,
+      "rows": 4,
+      "fps": 12
+    },
+    {
+      "id": "dfcee456-2344-4d7f-9556-e1697cc3bafb",
+      "kind": "image",
+      "title": "",
+      "author": "먀",
+      "description": "",
+      "permissionConfirmedAt": "2026-10-31T11:37:25.178Z",
+      "updatedAt": "2026-10-31T11:37:25.178Z",
+      "asset": "media/dfcee456-2344-4d7f-9556-e1697cc3bafb.png",
+      "frames": 20,
+      "cols": 5,
       "rows": 4,
       "fps": 12
     }

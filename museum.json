@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-31T11:37:14.381Z",
+  "updatedAt": "2026-10-31T11:37:28.758Z",
   "images": [
     {
       "active": true,
@@ -23,7 +23,16 @@
       "fps": 12
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "먀",
+      "description": "",
+      "vertical": false,
+      "rev": "dfcee456-2344-4d7f-9556-e1697cc3bafb:2026-10-31T11:37:25.178Z",
+      "frames": 20,
+      "cols": 5,
+      "rows": 4,
+      "fps": 12
     },
     {
       "active": false
