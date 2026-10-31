@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T00:17:03.936Z",
+  "updatedAt": "2026-10-31T08:39:16.086Z",
   "works": [
     {
       "id": "0752fb96-0fdf-4b2c-b644-6856cce8e06f",
@@ -11,17 +11,6 @@
       "permissionConfirmedAt": "2026-10-30T14:47:58.349Z",
       "updatedAt": "2026-10-30T14:47:58.349Z",
       "asset": "media/0752fb96-0fdf-4b2c-b644-6856cce8e06f.png"
-    },
-    {
-      "id": "b428b8e6-6fde-4012-acd0-258da59b7c9e",
-      "kind": "video",
-      "title": "テスト",
-      "author": "テストですよ",
-      "description": "テストですね",
-      "permissionConfirmedAt": "2026-10-30T14:50:47.390Z",
-      "updatedAt": "2026-10-30T14:50:47.390Z",
-      "asset": "media/b428b8e6-6fde-4012-acd0-258da59b7c9e.mp4",
-      "thumbnail": "media/b428b8e6-6fde-4012-acd0-258da59b7c9e-cover.png"
     },
     {
       "id": "4b24030d-1837-48d4-9b62-bfbdced4603b",
