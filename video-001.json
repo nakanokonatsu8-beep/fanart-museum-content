@@ -1,3 +1,11 @@
 {
-  "active": false
+  "active": true,
+  "title": "",
+  "author": "SoraMEME",
+  "description": "",
+  "body": "",
+  "vertical": false,
+  "kind": "video",
+  "asset": "media/5508bbf1-498a-42e8-90ff-8f951168f198.mp4",
+  "thumbnail": "media/5508bbf1-498a-42e8-90ff-8f951168f198-cover.png"
 }
