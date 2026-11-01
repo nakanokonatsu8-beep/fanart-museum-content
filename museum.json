@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-01T05:30:45.485Z",
+  "updatedAt": "2026-11-01T16:43:44.580Z",
   "images": [
     {
       "active": true,
@@ -35,7 +35,12 @@
       "fps": 12
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "くりびぃ",
+      "description": "",
+      "vertical": false,
+      "rev": "95318535-50d2-4477-a5c0-4654e79bd803:2026-11-01T16:43:41.972Z"
     },
     {
       "active": false

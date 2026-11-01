@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T05:30:45.485Z",
+  "updatedAt": "2026-11-01T16:43:44.580Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -61,6 +61,16 @@
       "updatedAt": "2026-11-01T05:30:40.019Z",
       "asset": "media/5508bbf1-498a-42e8-90ff-8f951168f198.mp4",
       "thumbnail": "media/5508bbf1-498a-42e8-90ff-8f951168f198-cover.png"
+    },
+    {
+      "id": "95318535-50d2-4477-a5c0-4654e79bd803",
+      "kind": "image",
+      "title": "",
+      "author": "くりびぃ",
+      "description": "",
+      "permissionConfirmedAt": "2026-11-01T16:43:41.972Z",
+      "updatedAt": "2026-11-01T16:43:41.972Z",
+      "asset": "media/95318535-50d2-4477-a5c0-4654e79bd803.png"
     }
   ]
 }
