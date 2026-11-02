@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T16:43:44.580Z",
+  "updatedAt": "2026-11-02T11:29:47.525Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -71,6 +71,16 @@
       "permissionConfirmedAt": "2026-11-01T16:43:41.972Z",
       "updatedAt": "2026-11-01T16:43:41.972Z",
       "asset": "media/95318535-50d2-4477-a5c0-4654e79bd803.png"
+    },
+    {
+      "id": "997e6590-6da3-4e05-906c-e5b9633766ca",
+      "kind": "image",
+      "title": "",
+      "author": "百目",
+      "description": "",
+      "permissionConfirmedAt": "2026-11-02T11:29:45.317Z",
+      "updatedAt": "2026-11-02T11:29:45.321Z",
+      "asset": "media/997e6590-6da3-4e05-906c-e5b9633766ca.png"
     }
   ]
 }
