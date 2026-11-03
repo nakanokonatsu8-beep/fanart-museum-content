@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T11:29:47.526Z",
+  "updatedAt": "2026-11-03T13:46:41.740Z",
   "images": [
     {
       "active": true,
@@ -573,7 +573,12 @@
   ],
   "novels": [
     {
-      "active": false
+      "active": true,
+      "title": "月は、ずっと知っていた",
+      "author": "・",
+      "description": "初めての小説！\n月ちゃんの小説です、、、長くなってしまったり拙いのですが本当に月ちゃん好きすぎて…",
+      "vertical": false,
+      "rev": "89fff0dc-cedf-4fb4-83b9-f61d8ce9cfb9:2026-11-03T13:46:40.691Z"
     },
     {
       "active": false
