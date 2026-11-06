@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-06T21:55:22.167Z",
+  "updatedAt": "2026-11-06T21:55:43.013Z",
   "images": [
     {
       "active": true,
@@ -56,7 +56,7 @@
       "author": "먀",
       "description": "",
       "vertical": false,
-      "rev": "8dafa5cd-4137-4657-b096-1c9201d0dbe7:2026-11-06T21:55:21.261Z"
+      "rev": "8dafa5cd-4137-4657-b096-1c9201d0dbe7:2026-11-06T21:55:39.796Z"
     },
     {
       "active": false
