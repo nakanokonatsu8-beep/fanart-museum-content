@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03T13:51:34.537Z",
+  "updatedAt": "2026-11-06T18:04:57.776Z",
   "images": [
     {
       "active": true,
@@ -51,7 +51,12 @@
       "rev": "997e6590-6da3-4e05-906c-e5b9633766ca:2026-11-02T11:29:45.321Z"
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "먀",
+      "description": "",
+      "vertical": false,
+      "rev": "8dafa5cd-4137-4657-b096-1c9201d0dbe7:2026-11-06T18:04:53.982Z"
     },
     {
       "active": false
