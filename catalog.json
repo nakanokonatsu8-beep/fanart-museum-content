@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T21:55:43.012Z",
+  "updatedAt": "2026-11-09T14:41:26.674Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -102,6 +102,17 @@
       "permissionConfirmedAt": "2026-11-06T21:55:39.796Z",
       "updatedAt": "2026-11-06T21:55:39.796Z",
       "asset": "media/8dafa5cd-4137-4657-b096-1c9201d0dbe7.png"
+    },
+    {
+      "id": "09cda632-67e6-44ff-9208-f93b44c99f23",
+      "kind": "video",
+      "title": "",
+      "author": "SoraMEME",
+      "description": "",
+      "permissionConfirmedAt": "2026-11-09T14:41:21.430Z",
+      "updatedAt": "2026-11-09T14:41:21.430Z",
+      "asset": "media/09cda632-67e6-44ff-9208-f93b44c99f23.mp4",
+      "thumbnail": "media/09cda632-67e6-44ff-9208-f93b44c99f23-cover.png"
     }
   ]
 }
