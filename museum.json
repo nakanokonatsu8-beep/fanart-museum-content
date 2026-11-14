@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-09T14:42:03.257Z",
+  "updatedAt": "2026-11-14T14:01:21.548Z",
   "images": [
     {
       "active": true,
@@ -547,7 +547,12 @@
       "rev": "062a721f-4c22-4e73-b792-672ab067e342:2026-11-09T14:41:58.689Z"
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "SoraMEME",
+      "description": "",
+      "vertical": false,
+      "rev": "8f81d17a-5811-4d00-bdca-eb219c6e8b50:2026-11-14T14:01:17.110Z"
     },
     {
       "active": false
