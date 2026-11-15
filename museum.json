@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-14T14:01:21.548Z",
+  "updatedAt": "2026-11-15T15:53:54.667Z",
   "images": [
     {
       "active": true,
@@ -59,7 +59,16 @@
       "rev": "8dafa5cd-4137-4657-b096-1c9201d0dbe7:2026-11-06T21:55:39.796Z"
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "SoraMEME",
+      "description": "",
+      "vertical": false,
+      "rev": "99fb8dda-44e7-4373-9c93-dde491a8c3ac:2026-11-15T15:53:50.598Z",
+      "frames": 28,
+      "cols": 6,
+      "rows": 5,
+      "fps": 12.2
     },
     {
       "active": false
