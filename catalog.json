@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:02:29.268Z",
+  "updatedAt": "2026-11-21T17:03:51.298Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -148,6 +148,17 @@
       "permissionConfirmedAt": "2026-11-21T16:51:10.800Z",
       "updatedAt": "2026-11-21T16:51:10.800Z",
       "asset": "media/b354dbcb-8850-41e7-a366-5f86a89623e4.png"
+    },
+    {
+      "id": "60b9129a-82dc-4f2a-9d2e-90f5c4ef5192",
+      "kind": "video",
+      "title": "",
+      "author": "イオタエイト",
+      "description": "",
+      "permissionConfirmedAt": "2026-11-21T17:03:34.587Z",
+      "updatedAt": "2026-11-21T17:03:34.587Z",
+      "asset": "media/60b9129a-82dc-4f2a-9d2e-90f5c4ef5192.mp4",
+      "thumbnail": "media/60b9129a-82dc-4f2a-9d2e-90f5c4ef5192-cover.png"
     }
   ]
 }

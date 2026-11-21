@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-21T17:02:29.269Z",
+  "updatedAt": "2026-11-21T17:03:51.299Z",
   "images": [
     {
       "active": true,
@@ -561,7 +561,12 @@
       "rev": "062a721f-4c22-4e73-b792-672ab067e342:2026-11-09T14:41:58.689Z"
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "イオタエイト",
+      "description": "",
+      "vertical": false,
+      "rev": "60b9129a-82dc-4f2a-9d2e-90f5c4ef5192:2026-11-21T17:03:34.587Z"
     },
     {
       "active": false

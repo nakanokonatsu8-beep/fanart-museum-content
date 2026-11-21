@@ -1,3 +1,11 @@
 {
-  "active": false
+  "active": true,
+  "title": "",
+  "author": "イオタエイト",
+  "description": "",
+  "body": "",
+  "vertical": false,
+  "kind": "video",
+  "asset": "media/60b9129a-82dc-4f2a-9d2e-90f5c4ef5192.mp4",
+  "thumbnail": "media/60b9129a-82dc-4f2a-9d2e-90f5c4ef5192-cover.png"
 }
