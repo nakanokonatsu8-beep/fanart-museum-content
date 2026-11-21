@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-15T15:55:43.821Z",
+  "updatedAt": "2026-11-21T16:51:14.418Z",
   "images": [
     {
       "active": true,
@@ -71,7 +71,12 @@
       "fps": 12.2
     },
     {
-      "active": false
+      "active": true,
+      "title": "",
+      "author": "くらげLABO",
+      "description": "",
+      "vertical": false,
+      "rev": "b354dbcb-8850-41e7-a366-5f86a89623e4:2026-11-21T16:51:10.800Z"
     },
     {
       "active": false

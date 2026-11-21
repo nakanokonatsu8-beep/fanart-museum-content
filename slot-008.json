@@ -1,3 +1,11 @@
 {
-  "active": false
+  "active": true,
+  "title": "",
+  "author": "くらげLABO",
+  "description": "",
+  "body": "",
+  "vertical": false,
+  "kind": "image",
+  "asset": "media/b354dbcb-8850-41e7-a366-5f86a89623e4.png",
+  "thumbnail": ""
 }

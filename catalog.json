@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T15:55:43.821Z",
+  "updatedAt": "2026-11-21T16:51:14.417Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -138,6 +138,16 @@
       "cols": 6,
       "rows": 5,
       "fps": 12.2
+    },
+    {
+      "id": "b354dbcb-8850-41e7-a366-5f86a89623e4",
+      "kind": "image",
+      "title": "",
+      "author": "くらげLABO",
+      "description": "",
+      "permissionConfirmedAt": "2026-11-21T16:51:10.800Z",
+      "updatedAt": "2026-11-21T16:51:10.800Z",
+      "asset": "media/b354dbcb-8850-41e7-a366-5f86a89623e4.png"
     }
   ]
 }
