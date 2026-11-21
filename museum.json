@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-21T16:57:40.846Z",
+  "updatedAt": "2026-11-21T17:02:29.269Z",
   "images": [
     {
       "active": true,
@@ -79,16 +79,7 @@
       "rev": "b354dbcb-8850-41e7-a366-5f86a89623e4:2026-11-21T16:51:10.800Z"
     },
     {
-      "active": true,
-      "title": "",
-      "author": "イオタエイト",
-      "description": "",
-      "vertical": false,
-      "rev": "354267c5-0c4b-410e-8b75-11c445701111:2026-11-21T16:55:13.868Z",
-      "frames": 48,
-      "cols": 7,
-      "rows": 7,
-      "fps": 4.8
+      "active": false
     },
     {
       "active": false

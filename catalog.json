@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T16:57:40.846Z",
+  "updatedAt": "2026-11-21T17:02:29.268Z",
   "works": [
     {
       "id": "51054c90-0ea4-4722-817e-150e804caecb",
@@ -148,20 +148,6 @@
       "permissionConfirmedAt": "2026-11-21T16:51:10.800Z",
       "updatedAt": "2026-11-21T16:51:10.800Z",
       "asset": "media/b354dbcb-8850-41e7-a366-5f86a89623e4.png"
-    },
-    {
-      "id": "354267c5-0c4b-410e-8b75-11c445701111",
-      "kind": "image",
-      "title": "",
-      "author": "イオタエイト",
-      "description": "",
-      "permissionConfirmedAt": "2026-11-21T16:55:13.868Z",
-      "updatedAt": "2026-11-21T16:55:13.868Z",
-      "asset": "media/354267c5-0c4b-410e-8b75-11c445701111.png",
-      "frames": 48,
-      "cols": 7,
-      "rows": 7,
-      "fps": 4.8
     }
   ]
 }
